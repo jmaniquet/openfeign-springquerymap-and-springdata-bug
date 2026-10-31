@@ -1,0 +1,1 @@
+# openfeign-springquerymap-and-springdata-bug
